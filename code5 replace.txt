@@ -1,0 +1,11 @@
+Class Stringdemo
+{
+public static void main(string []args)
+{
+String s="Hanuman";
+system.out.println(s.replace('a','1'));
+}
+}
+
+
+output-     h1num1n
